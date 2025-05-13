@@ -1,0 +1,11 @@
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\bin\Debug\КЛас работа.exe.config
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\bin\Debug\КЛас работа.exe
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\bin\Debug\КЛас работа.pdb
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас работа.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас_работа.Form1.resources
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас_работа.Properties.Resources.resources
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас работа.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас работа.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас работа.exe
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас работа.pdb
+C:\Users\stud\Desktop\КЛас работа\КЛас работа\obj\Debug\КЛас_работа.Form2.resources

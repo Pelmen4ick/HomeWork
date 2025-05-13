@@ -1,0 +1,10 @@
+C:\Users\stud\Desktop\Двум мас\Двум мас\bin\Debug\Двум мас.exe.config
+C:\Users\stud\Desktop\Двум мас\Двум мас\bin\Debug\Двум мас.exe
+C:\Users\stud\Desktop\Двум мас\Двум мас\bin\Debug\Двум мас.pdb
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум мас.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум_мас.Form1.resources
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум_мас.Properties.Resources.resources
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум мас.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум мас.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум мас.exe
+C:\Users\stud\Desktop\Двум мас\Двум мас\obj\Debug\Двум мас.pdb
