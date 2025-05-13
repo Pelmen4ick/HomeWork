@@ -1,0 +1,10 @@
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\bin\Debug\ErrorProviderSample.exe.config
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\bin\Debug\ErrorProviderSample.exe
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\bin\Debug\ErrorProviderSample.pdb
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.FrmErrorProviderSample.resources
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.Properties.Resources.resources
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.exe
+C:\Users\stud\Desktop\ErrorProviderSample\ErrorProviderSample\obj\Debug\ErrorProviderSample.pdb

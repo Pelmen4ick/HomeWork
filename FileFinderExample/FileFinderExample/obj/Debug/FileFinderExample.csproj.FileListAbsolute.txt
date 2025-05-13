@@ -1,0 +1,9 @@
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.exe.config
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.exe
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\bin\Debug\FileFinderExample.pdb
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.Form1.resources
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.Properties.Resources.resources
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.GenerateResource.cache
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.csproj.CoreCompileInputs.cache
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.exe
+E:\ДЗПоПрограммированию\FileFinderExample\FileFinderExample\obj\Debug\FileFinderExample.pdb

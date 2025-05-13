@@ -1,0 +1,10 @@
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\bin\Debug\DataFridViewExample.exe.config
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\bin\Debug\DataFridViewExample.exe
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\bin\Debug\DataFridViewExample.pdb
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.Form1.resources
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.Properties.Resources.resources
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.exe
+C:\Users\stud\Desktop\DataFridViewExample\DataFridViewExample\obj\Debug\DataFridViewExample.pdb
