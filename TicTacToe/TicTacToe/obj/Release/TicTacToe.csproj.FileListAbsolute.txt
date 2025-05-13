@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\1\source\repos\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\1\source\repos\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.FrmTicTacToe.resources
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.cache
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\1\source\repos\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb

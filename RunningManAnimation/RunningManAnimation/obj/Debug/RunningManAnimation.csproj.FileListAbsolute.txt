@@ -1,0 +1,10 @@
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\bin\Debug\RunningManAnimation.exe.config
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\bin\Debug\RunningManAnimation.exe
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\bin\Debug\RunningManAnimation.pdb
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.csproj.AssemblyReference.cache
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.Form1.resources
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.Properties.Resources.resources
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.csproj.GenerateResource.cache
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.csproj.CoreCompileInputs.cache
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.exe
+C:\Users\meirz\source\repos\RunningManAnimation\RunningManAnimation\obj\Debug\RunningManAnimation.pdb
