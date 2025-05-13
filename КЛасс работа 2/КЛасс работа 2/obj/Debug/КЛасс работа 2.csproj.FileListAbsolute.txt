@@ -1,0 +1,20 @@
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\bin\Debug\КЛасс работа 2.exe.config
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\bin\Debug\КЛасс работа 2.exe
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\bin\Debug\КЛасс работа 2.pdb
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс_работа_2.Form1.resources
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс_работа_2.Properties.Resources.resources
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.exe
+C:\Users\stud\Desktop\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.pdb
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\bin\Debug\КЛасс работа 2.exe.config
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\bin\Debug\КЛасс работа 2.exe
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\bin\Debug\КЛасс работа 2.pdb
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.csproj.AssemblyReference.cache
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс_работа_2.Form1.resources
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс_работа_2.Properties.Resources.resources
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.csproj.GenerateResource.cache
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.csproj.CoreCompileInputs.cache
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.exe
+E:\Программирование\КЛасс работа 2\КЛасс работа 2\obj\Debug\КЛасс работа 2.pdb

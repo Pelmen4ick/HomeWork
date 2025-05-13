@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\1233\1233\bin\Debug\1233.exe.config
+C:\Users\User\source\repos\1233\1233\bin\Debug\1233.exe
+C:\Users\User\source\repos\1233\1233\bin\Debug\1233.pdb
+C:\Users\User\source\repos\1233\1233\obj\Debug\1233.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1233\1233\obj\Debug\1233.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1233\1233\obj\Debug\1233.exe
+C:\Users\User\source\repos\1233\1233\obj\Debug\1233.pdb

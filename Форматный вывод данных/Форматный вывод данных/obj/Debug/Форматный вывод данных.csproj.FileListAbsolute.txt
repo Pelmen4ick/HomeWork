@@ -1,0 +1,10 @@
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный вывод данных.csproj.AssemblyReference.cache
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный_вывод_данных.Form_Main.resources
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный_вывод_данных.Properties.Resources.resources
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный вывод данных.csproj.GenerateResource.cache
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный вывод данных.csproj.CoreCompileInputs.cache
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\bin\Debug\Форматный вывод данных.exe.config
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\bin\Debug\Форматный вывод данных.exe
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\bin\Debug\Форматный вывод данных.pdb
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный вывод данных.exe
+C:\Users\meirz\source\repos\Форматный вывод данных\Форматный вывод данных\obj\Debug\Форматный вывод данных.pdb
